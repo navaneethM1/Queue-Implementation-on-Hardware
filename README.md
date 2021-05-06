@@ -9,3 +9,5 @@ A FIFO implemented on hardware that supports enqueue and dequeue operations effi
   - QUEUE.v having the queue implementation
 - Testbench
   - tb.v
+- Design
+  - queue_image.jpeg describes the high level logic circuit of the entire queue
